@@ -3,6 +3,8 @@ Unfortunately the DW01A IC does not support battery reversal, perhaps adding a 2
 
 ![img](https://raw.githubusercontent.com/rtek1000/TP4056_Reverse_Battery_Protection/refs/heads/main/TP4056_Prot_Reverse_Red_Note.png)
 
+Note: This configuration was experimented with in this [project](https://github.com/rtek1000/Datalogger_2039).
+
 -----
 
 ##### Hardware:
